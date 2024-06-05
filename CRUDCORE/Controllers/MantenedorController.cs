@@ -1,5 +1,6 @@
 ﻿using CRUDCORE.Datos;
 using CRUDCORE.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CRUDCORE.Controllers

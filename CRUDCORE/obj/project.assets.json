@@ -9953,11 +9953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\www\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\CRUDCORE.csproj",
       "projectName": "CRUDCORE",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\www\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\CRUDCORE.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\www\\CRUDCORE\\CRUDCORE\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

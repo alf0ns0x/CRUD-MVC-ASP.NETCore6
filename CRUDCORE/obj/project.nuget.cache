@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqfX/jmk2muWQLRFyhehTNZKzdTW5qlUkXTA3GOLaDuBXm68QM2GGuyKhsZTggFa7sUQKC8HBOSh3Udvbpo5og==",
+  "dgSpecHash": "m1NiBEs7MuE64g/hOJsWt+6DIuFXHFrNGrH3SocQqVNhi+VtnbGwdTEBC6sEyh+JvWasr/mX5Qm2ztUwfRU5Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\www\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\CRUDCORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

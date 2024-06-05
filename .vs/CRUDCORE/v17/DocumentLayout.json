@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\administrador\\desktop\\practic\\crud-mvc-asp.netcore6\\crudcore\\datos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384B94EC-7108-45A1-A138-B5C9F434A052}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\datos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDCORE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:35:23.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T13:33:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Controllers\\MantenedorController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "CRUDCORE\\Controllers\\MantenedorController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:29:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Views\\Cuenta\\Login.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Cuenta\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Views\\Cuenta\\Login.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Cuenta\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T13:27:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "CRUDCORE\\Controllers\\CuentaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:54:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Program.cs",
+              "RelativeToolTip": "CRUDCORE\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:43:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Models\\Usuario.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:49:41.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Datos\\Contexto.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Datos\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\practic\\CRUD-MVC-ASP.NETCore6\\CRUDCORE\\Datos\\Contexto.cs",
+              "RelativeToolTip": "CRUDCORE\\Datos\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:42:00.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
